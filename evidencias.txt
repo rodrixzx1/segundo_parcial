@@ -1,0 +1,68 @@
+EJERCICIO 1:
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 1
+Ingrese la cantidad de boletos a comprar: 1
+
+--- Resultado de la Compra de Boletos ---
+Concepto             Detalle
+-------------------  ---------
+Cantidad de boletos  1
+Precio unitario      $75.00
+Subtotal             $75.00
+Descuento aplicado   $0.00
+Total a pagar        $75.00
+
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 1
+Ingrese la cantidad de boletos a comprar: 3
+
+--- Resultado de la Compra de Boletos ---
+Concepto             Detalle
+-------------------  ---------
+Cantidad de boletos  3
+Precio unitario      $75.00
+Subtotal             $225.00
+Descuento aplicado   $0.00
+Total a pagar        $225.00
+
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 1
+Ingrese la cantidad de boletos a comprar: 4
+
+--- Resultado de la Compra de Boletos ---
+Concepto             Detalle
+-------------------  ---------
+Cantidad de boletos  4
+Precio unitario      $75.00
+Subtotal             $300.00
+Descuento aplicado   $30.00
+Total a pagar        $270.00
+
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 1
+Ingrese la cantidad de boletos a comprar: 6
+
+--- Resultado de la Compra de Boletos ---
+Concepto             Detalle
+-------------------  ---------
+Cantidad de boletos  6
+Precio unitario      $75.00
+Subtotal             $450.00
+Descuento aplicado   $45.00
+Total a pagar        $405.00
+
+
+
+EJERCICIO 2:
