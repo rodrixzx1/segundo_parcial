@@ -66,3 +66,70 @@ Total a pagar        $405.00
 
 
 EJERCICIO 2:
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 2
+Ingrese la distancia recorrida en kilómetros: 120
+Ingrese la cantidad de litros consumidos: 10
+
+--- Análisis de Consumo de Combustible ---
+Concepto                     Detalle
+---------------------------  ----------
+Distancia recorrida          120.00 km
+Litros consumidos            10.00 L
+Precio por litro             $24.00
+Rendimiento del vehículo     12.00 km/l
+Costo total del combustible  $240.00
+
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 2
+Ingrese la distancia recorrida en kilómetros: 250
+Ingrese la cantidad de litros consumidos: 20
+
+--- Análisis de Consumo de Combustible ---
+Concepto                     Detalle
+---------------------------  ----------
+Distancia recorrida          250.00 km
+Litros consumidos            20.00 L
+Precio por litro             $24.00
+Rendimiento del vehículo     12.50 km/l
+Costo total del combustible  $480.00
+
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 2
+Ingrese la distancia recorrida en kilómetros: 180
+Ingrese la cantidad de litros consumidos: 15
+
+--- Análisis de Consumo de Combustible ---
+Concepto                     Detalle
+---------------------------  ----------
+Distancia recorrida          180.00 km
+Litros consumidos            15.00 L
+Precio por litro             $24.00
+Rendimiento del vehículo     12.00 km/l
+Costo total del combustible  $360.00
+
+SEGUNDO EXAMEN PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción: 2
+Ingrese la distancia recorrida en kilómetros: 300
+Ingrese la cantidad de litros consumidos: 25
+
+--- Análisis de Consumo de Combustible ---
+Concepto                     Detalle
+---------------------------  ----------
+Distancia recorrida          300.00 km
+Litros consumidos            25.00 L
+Precio por litro             $24.00
+Rendimiento del vehículo     12.00 km/l
+Costo total del combustible  $600.00
